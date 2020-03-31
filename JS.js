@@ -17,7 +17,7 @@ body {
 
 h1 {
   font-weight: 300;
-  margin: 0;
+  margin: 20px;
 }
 
 /* Gradient text only on Webkit */
