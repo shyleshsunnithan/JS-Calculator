@@ -20,7 +20,7 @@ h1 {
   margin: 20px;
 }
 
-/* Gradient text only on Webkit */
+/* Gradient text only on the Webkit */
 .warning {
   background: -webkit-linear-gradient(45deg,  #c97874 10%, #463042 90%);
   -webkit-background-clip: text;
