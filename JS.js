@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-  font-weight: 300;
+  font-weight: 300; 
   margin: 20px;
 }
 
