@@ -54,6 +54,8 @@ h1 {
   opacity: 0;
 }
 
+
+
 .viewer {
   color: #c97874;
   float: left;
